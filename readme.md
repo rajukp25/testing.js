@@ -1,7 +1,7 @@
 # sample project
 
-Phrase object (with palindrome detector) \n
-This is a sample NPM module created in Learn Enough JavaScript to Be Dangerous by Michael Hartl. \n \n
+Phrase object (with palindrome detector) <br>
+This is a sample NPM module created in Learn Enough JavaScript to Be Dangerous by Michael Hartl. <br> <br>
 
 The module can be used as follows:\n
 
