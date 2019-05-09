@@ -3,12 +3,12 @@
 Phrase object (with palindrome detector) <br>
 This is a sample NPM module created in Learn Enough JavaScript to Be Dangerous by Michael Hartl. <br> <br>
 
-The module can be used as follows:\n
+The module can be used as follows:<br>
 
-$ npm install --global rpalindrome \n
-$ vim test.js \n
-let Phrase = require("rpalindrome"); \n
-let napoleonsLament = new Phrase("Able was I, ere I saw Elba."); \n
-console.log(napoleonsLament.palindrome()); \n
-$ node test.js \n
-true \n
+$ npm install --global rpalindrome <br>
+$ vim test.js <br>
+let Phrase = require("rpalindrome"); <br>
+let napoleonsLament = new Phrase("Able was I, ere I saw Elba."); <br>
+console.log(napoleonsLament.palindrome()); <br>
+$ node test.js <br>
+true 
