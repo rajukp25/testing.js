@@ -1,0 +1,24 @@
+{
+  "name": "rpalindrome",
+  "version": "1.0.0",
+  "description": "Palindrome dectector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajukp25/testing_devlp.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "michale hartl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajukp25/testing_devlp/issues"
+  },
+  "homepage": "https://github.com/rajukp25/testing_devlp#readme"
+}
